@@ -1,0 +1,9 @@
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\bin\Debug\ProtocolTest.exe.config
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\bin\Debug\ProtocolTest.exe
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\bin\Debug\ProtocolTest.pdb
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\obj\Debug\ProtocolTest.csprojResolveAssemblyReference.cache
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\obj\Debug\ProtocolTest.Form1.resources
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\obj\Debug\ProtocolTest.Properties.Resources.resources
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\obj\Debug\ProtocolTest.csproj.GenerateResource.Cache
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\obj\Debug\ProtocolTest.exe
+c:\users\shundroid\documents\visual studio 2015\Projects\ProtocolTest\ProtocolTest\obj\Debug\ProtocolTest.pdb
